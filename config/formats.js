@@ -27,7 +27,7 @@ exports.Formats = [
 		section: "ORAS Singles",
 
 		ruleset: ['Pokemon', 'Standard', 'Team Preview', 'Swagger Clause', 'Baton Pass Clause'],
-		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite', 'Mawilite', 'Salamencite']
+		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Mawilite', 'Salamencite']
 	},
 	{
 		name: "OU (no Mega)",
